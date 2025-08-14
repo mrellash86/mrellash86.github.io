@@ -133,7 +133,16 @@ function App() {
       <header className="header">
         <div className="profile-section">
           <div className="profile-image">
-            <i className="fas fa-user-tie"></i>
+            <img 
+              src="/ell-ash.jpeg" 
+              alt="Ell Ash - DevOps Engineer" 
+              style={{
+                width: '100%',
+                height: '100%',
+                objectFit: 'cover',
+                borderRadius: '50%'
+              }}
+            />
           </div>
           <h1 className="name">Ell Ash</h1>
           <h2 className="title">DevOps Engineer | Dev/Sec Specialist</h2>
