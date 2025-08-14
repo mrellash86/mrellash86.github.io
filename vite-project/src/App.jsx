@@ -430,7 +430,7 @@ function App() {
   </h3>
   <div className="qr-code-container">
     <img 
-      src="/ell-ash-linktree.png" 
+      src="./ell-ash-linktree.png" 
       alt="Ell Ash Linktree QR Code" 
       style={{
         width: '100%',
