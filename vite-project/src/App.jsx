@@ -424,21 +424,27 @@ function App() {
           </section>
 
           <section className="section qr-section">
-            <h3 className="section-title">
-              <i className="fas fa-qrcode"></i>
-              Contact QR Code
-            </h3>
-            <div className="qr-placeholder">
-              <div>
-                📱<br/>
-                QR Code<br/>
-                Placeholder
-              </div>
-            </div>
-            <p className="qr-text">
-              Scan to add my contact information to your phone
-            </p>
-          </section>
+  <h3 className="section-title">
+    <i className="fas fa-qrcode"></i>
+    Contact QR Code
+  </h3>
+  <div className="qr-code-container">
+    <img 
+      src="./ell-ash-linktree.png" 
+      alt="Ell Ash Linktree QR Code" 
+      style={{
+        width: '100%',
+        height: 'auto',
+        maxWidth: '200px',
+        borderRadius: '10px',
+        border: '2px solid rgba(0, 212, 255, 0.3)'
+      }}
+    />
+  </div>
+  <p className="qr-text">
+    Scan to access my Linktree with all contact information
+  </p>
+</section>
 
           <section className="section">
             <h3 className="section-title">
