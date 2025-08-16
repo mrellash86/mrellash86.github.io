@@ -51,4 +51,5 @@ DevOps Engineer and Dev/Sec Specialist passionate about building robust, scalabl
 
 ✉️ **Contact Me**: Feel free to reach out for collaboration opportunities or just to say hello!
 
-*Built with 💙 by Ell Ash*
+*Built with by Ell Ash*
+
